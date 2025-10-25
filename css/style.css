@@ -77,8 +77,7 @@ body {
   display: flex;
   gap: 63px;
 }
-.stats-item {
-}
+
 .stat-value {
   font-weight: 700;
   font-size: 24px;
